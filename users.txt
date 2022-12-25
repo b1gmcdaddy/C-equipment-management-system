@@ -1,0 +1,5 @@
+1,Jolo,Tangpuz,admin,pass,mustafa@gmail.com,enable
+2,Carlos,hello,OUser,12345,test@gmail.com,Enable
+3,Raffy,cortes,staff,12345,raffy@gmail.com,Enable
+
+4,Eren,Test,OUser,12345,eren@gmail.com,Enable
